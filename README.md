@@ -12,3 +12,4 @@
 5.**Birth Year:** I have calculated the birth year of a user according to his/her age using subtraction operator().
 6.**Result:** I have print all result using print().
  
+<img width="902" height="401" alt="image" src="https://github.com/user-attachments/assets/8672d1d8-f105-4417-83d8-32a7d8c8259d" />
